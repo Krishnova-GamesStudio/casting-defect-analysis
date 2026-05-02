@@ -2,7 +2,7 @@
 -- PROJECT: Manufacturing Defect Analysis
 -- STEP 1: Exploratory Data Analysis (EDA)
 -- Dataset: casting_defects_raw.csv
--- Tool: PostgreSQL (adapt DATE functions if using SQLite/MySQL)
+-- Tool: MySQL (adapt DATE functions if using SQLite/PostgreSQL)
 -- ============================================================
 
 
